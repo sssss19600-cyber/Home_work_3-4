@@ -20,3 +20,5 @@ if input == number:
     print("Wow! You are very lucky!")
 else:
     print("Sorry it's not your day")
+
+#Я зробив аж 3 программи в одній, думаю прикольно вийшло
